@@ -62,7 +62,7 @@ $waktu = date("Y-m-d H:i:s");
         <p>Halo <strong><?= htmlspecialchars($nama) ?></strong></p>
         
         <div class="box">
-            <p>Semoga Bisa <strong> Menambah Pengetahuan Baru </strong> Disini ! </p>
+            <p>Semoga Bisa <strong> Menambah Pengalaman Belajar Baru </strong> Disini ! </p>
             <a href="objekSegitiga.php" class="tugas-btn">Tugas 1</a>
             <a href="perpusinheritance.php" class="tugas-btn">Tugas 2</a>
             <a href="tambahanperpusinheritance.php" class="tugas-btn">Tugas 3</a>
