@@ -66,6 +66,7 @@ $waktu = date("Y-m-d H:i:s");
             <a href="objekSegitiga.php" class="tugas-btn">Tugas 1</a>
             <a href="perpusinheritance.php" class="tugas-btn">Tugas 2</a>
             <a href="tambahanperpusinheritance.php" class="tugas-btn">Tugas 3</a>
+            <a href="tugas1.php" class="tugas-btn">Tugas 4</a>
         </div>
     </div>
 </body>
